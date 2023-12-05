@@ -30,6 +30,7 @@ Click [here](https://main--luminous-smakager-801ce1.netlify.app/) to see the dep
 ## Contributing
 - Referenced the Xpert Learning Assistant
 - Referenced class activities found in the 19-React module
+- [React docs](https://react.dev/reference/react)
   
 ## Tests
 N/A
