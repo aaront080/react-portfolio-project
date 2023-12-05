@@ -23,7 +23,8 @@ Click [here](https://main--luminous-smakager-801ce1.netlify.app/) to see the dep
 
 ## Usage
 
-![Untitled_ Dec 4, 2023 8_54 PM](https://github.com/aaront080/react-portfolio-project/assets/143736506/8bf328fd-b079-4ff9-8ad9-2ca26a66436a)
+
+![React App](https://github.com/aaront080/react-portfolio-project/assets/143736506/8d4f45a7-2121-42ce-8b32-189307f2c582)
 
 
 
