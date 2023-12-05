@@ -34,3 +34,10 @@ Click [here](https://main--luminous-smakager-801ce1.netlify.app/) to see the dep
   
 ## Tests
 N/A
+
+## License
+
+This project is using the MIT license. Click license badge for additonal license information.
+
+## Questions
+For additional information please email me at aaront080@gmail.com. Please visit https://github.com/aaront080 for additional projects.
