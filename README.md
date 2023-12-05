@@ -19,7 +19,7 @@ This application is a functional Text Editor application (J.A.T.E) that was crea
 
 ## Installation
 
-https://main--luminous-smakager-801ce1.netlify.app/
+Click [here](https://main--luminous-smakager-801ce1.netlify.app/) to see the deployed application.
 
 ## Usage
 
