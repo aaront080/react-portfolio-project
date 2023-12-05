@@ -14,7 +14,7 @@
 
 ## Description
 
-This application is a functional Text Editor application (J.A.T.E) that was created as a progressive web application. This web application allows users to take simple notes using the text editor user interface. Some of the technologies that were utilized in the creation of this app were IndexedDB, Webpack, Workbox, and Heroku.
+This application is a function portfolio web application that can be utilized to showcase your past web development projects. This application was built using react. This web application opens on a "About Me' page that gives a short introduction to the coding developers background. The navigation bar at the top of the web application also allows users to navigate to a "Portfolio", "Contact" and "Resume" pages.
 
 
 ## Installation
@@ -29,7 +29,7 @@ Click [here](https://main--luminous-smakager-801ce1.netlify.app/) to see the dep
 
 ## Contributing
 - Referenced the Xpert Learning Assistant
-- Referenced class activities found in the 18-PWA module
+- Referenced class activities found in the 19-React module
   
 ## Tests
 N/A
