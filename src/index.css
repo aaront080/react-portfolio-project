@@ -6,13 +6,13 @@ main {
 
 :root {
 	--primary: #499167;
-	--secondary: #2E282A;
+	--secondary: #283044;
 	--tertiary: #f0f2a6;
-	--quaternary: #39a9db;
-	--quinary: #bfd7ea;
-	--light: #bfd7ea;
-	--dark: #353831;
-	--darker: #39a9db;
+	--quaternary: white;
+	--quinary: #f0f2a6;
+	--light: white;
+	--dark: #78a1bb;
+	--darker: white;
 	--error: rgb(228, 46, 1);
 	--spacing-one: calc(1rem * 0.5);
 	--spacing-two: calc(1rem);

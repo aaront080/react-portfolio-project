@@ -14,14 +14,13 @@ function Resume() {
 			<div>
 				<h5>Front-End Development</h5>
 				<ol>
-					<li>HTML5</li>
-					<li>CSS3</li>
+					<li>HTML</li>
+					<li>CSS</li>
 					<li>JavaScript</li>
 					<li>jQuery</li>
 					<li>Bootstrap</li>
 					<li>React</li>
 					<li>version control/Git</li> 
-					<li>responsive design</li>
 				</ol>
 				<br></br>
 				<h5>Back-End Development</h5>
@@ -47,10 +46,8 @@ function Resume() {
 					<li>MySQL</li>
 					<li>Sequelize</li>
 					<li>NoSQL</li>
-					<li>SQLite</li>
 					<li>GraphQL</li>
 					<li>MongoDB</li>
-					<li>Mongoose</li>
 				</ol>
 			</div>
 		</section>

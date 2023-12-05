@@ -11,10 +11,10 @@ function About() {
             </div>
             <div>
                 <p>
-                    Write some about me text here vjufbeauigrabuiqbvirubnqifrbjuqndfksbnjfgjks;nb
+                    I am an aspiring software engineer that has a background in project management and business analysis. I am currently located in Newport Beach, CA. I enjoy the outdoors and strive to live an active lifestyle. I hope to take my management and team collaboration skills over to the software development field.
                 </p>
                 <p>
-                    second paragraph ergnruwovbrouwbuo
+                    I am currently attending the University of California, Berkeley coding bootcamp and will be graduating December 2022. I plan to pursue a career in software development and implementation after graduation.
                 </p>
             </div>
         </section>
